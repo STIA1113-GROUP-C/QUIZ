@@ -1,0 +1,72 @@
+Q1: b
+Q2: c
+Q3: d
+Q4: package quiz;
+
+public class Ques4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int num1 = 2;
+		int num2 = 3;
+		 int sum = num1 + num2;
+		 System.out.println("Sum of two numbers= " + sum);
+	}
+
+}
+
+Q5: public static void main(String[] args)
+Q6: a
+Q7: b
+Q8: a,c,f
+Q9: c
+Q10: c
+Q11: a
+Q12: i. int a, b;
+     ii. int x = 10, char ch = 'y';
+     iii. double payRate = 12.50;
+     iv. boolean ans = true;
+
+Q13: i. 3
+     ii. 5
+     iii. 1
+     iv. -2
+     v. 4.25
+     vi. -2.0
+     vii. 12
+     viii. 16.0
+     
+Q14: a = 20
+     b = 15
+     c = 6
+     x = 11.5
+     y = 4.5
+     
+Q15: 22
+Q16: i. x *= 2;
+     ii. x += y - 2;
+     iii. sum += num;
+     iv. y /= (x+5)
+     
+Q17: public class Ques17 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Programming is fun!");
+
+	}
+
+}
+
+Q18: public class Ques18 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World!");
+
+	}
+
+}
+
+    
